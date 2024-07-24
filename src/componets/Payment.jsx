@@ -69,19 +69,19 @@ const Payment = ({ isOpen, onClose }) => {
                 <div className="pl-4">
                   <div className="flex justify-between">
                     <span>Accommodation:</span>
-                    <span>£1,000.00</span>
+                    <span>1,000.00</span>
                   </div>
                   <div className="flex justify-between">
                     <span>Cleaning:</span>
-                    <span>£100.00</span>
+                    <span>100.00</span>
                   </div>
                   <div className="flex justify-between">
                     <span>Ota Fee:</span>
-                    <span>-£50.00</span>
+                    <span>50.00</span>
                   </div>
                   <div className="flex justify-between font-bold">
                     <span>Total:</span>
-                    <span>£1,050.00</span>
+                    <span>1,050.00</span>
                   </div>
                 </div>
               </div>
@@ -99,23 +99,23 @@ const Payment = ({ isOpen, onClose }) => {
                 <div className="pl-4">
                   <div className="flex justify-between">
                     <span>Accommodation:</span>
-                    <span>£500.00</span>
+                    <span>500.00</span>
                   </div>
                   <div className="flex justify-between">
                     <span>Cleaning:</span>
-                    <span>£80.00</span>
+                    <span>80.00</span>
                   </div>
                   <div className="flex justify-between">
                     <span>Ota Fee:</span>
-                    <span>-£30.00</span>
+                    <span>30.00</span>
                   </div>
                   <div className="flex justify-between font-bold">
                     <span>Total:</span>
-                    <span>£550.00</span>
+                    <span>550.00</span>
                   </div>
                 </div>
               </div>
-              <div className="text-right font-bold">Total: £1,600.00</div>
+              <div className="text-right font-bold">1,600.00</div>
             </div>
           ) : (
             <div>
